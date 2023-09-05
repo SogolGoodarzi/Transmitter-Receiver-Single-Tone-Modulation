@@ -1,4 +1,4 @@
-![image](https://github.com/SogolGoodarzi/Transmitter-Receiver-Single-Tone-Modulation/assets/125180530/7077f6eb-c0d9-4dd6-b54e-27914b638e18)# Transmitter-Receiver-Single-Tone-Modulation
+# Transmitter-Receiver-Single-Tone-Modulation
 ## Transmitter
 ### Phase Modulation
 1. <p align="justify"> Implement a function named pm() that accepts the signal of the frequency message and the amplitude $\Phi_{\Delta}$ (and other required inputs) as input and outputs the modulated signal using the PM method. </p>
